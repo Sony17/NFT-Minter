@@ -1,3 +1,3 @@
 # NFT Minter
 
-https://nft-art-display.vercel.app/
+https://nft-minter-two.vercel.app/
